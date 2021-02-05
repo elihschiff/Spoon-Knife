@@ -1,0 +1,1 @@
+I would like to all work in one repository. From my experance, working in forks just adds more work for everyone. Forks make sense if you are not working with people you know and trust. However, if you know and trust people, a fork just adds a lot more work.
